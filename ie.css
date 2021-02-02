@@ -1,0 +1,40 @@
+body {
+    font-family: sans-serif;
+    background-color: turquoise;
+}
+
+header {
+  border: 4px solid yellow;
+  border-radius: 5px;
+}
+
+nav {
+   margin-top: 20px;
+}
+
+nav a {
+    text-decoration: none ;
+    color: gray;
+}
+
+
+header a{
+   border-radius: 5px;
+   border: 1px solid rgb(60, 0, 255);
+   background-color: rgb(60, 0, 255);
+   color: white;
+   text-decoration: none;
+}
+
+.me {
+   text-align: center;
+   color: orange;
+}
+
+.y {
+    text-align: center;
+}
+
+.u {
+    background-color: green ;
+}
